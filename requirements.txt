@@ -3,6 +3,7 @@ langchain
 langchain-community
 langchain-groq
 langchain-huggingface
+pytesseract
 faiss-cpu
 sentence-transformers
 pymupdf
