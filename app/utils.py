@@ -1,7 +1,7 @@
 import fitz  # PyMuPDF
 import pytesseract
 from PIL import Image
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import io
 
 # Setup text splitter
