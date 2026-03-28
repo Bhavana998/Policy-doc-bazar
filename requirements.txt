@@ -4,6 +4,6 @@ langchain-community
 langchain-core
 faiss-cpu
 pypdf
-pip install PyMuPDF
+PyMuPDF
 tiktoken
 openai
