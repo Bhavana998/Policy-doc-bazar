@@ -7,3 +7,5 @@ pypdf
 PyMuPDF
 tiktoken
 openai
+pytesseract
+Pillow
