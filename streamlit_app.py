@@ -1,4 +1,12 @@
 import streamlit as st
+import pkg_resources
+
+st.write([pkg.key for pkg in pkg_resources.working_set])
+
+# your existing imports BELOW
+from app.utils import extract_text_from_pdf, chunk_text
+from app.retriever import store_documents
+import streamlit as st
 import os
 import time
 
